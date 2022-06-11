@@ -19,7 +19,7 @@ First of all, clone this repository and open it in a terminal. Then restore all 
 
 ```sh
 $ git clone https://github.com/rahulkapoor007/api-custom-auth.git
-$ cd jwt-api/src
+$ cd AuthorizationAndAuthentication
 $ dotnet restore
 $ dotnet run
 ```
@@ -45,7 +45,7 @@ To request the access tokens, make a `POST` request to `http://localhost:5154/ap
 There is an API endpoints that you can test:
 
  - `GET:` `http://localhost:5154/api/Dashboard/UserList`: users with access of dashboard management and having read access can access this endpoint if a valid access token is specified;
- - `DELETE:` `http://localhost:5000/api/Dashboard/User`: only users with access of dashboard management and having delete access can access this endpoint if a valid access token is specified;
+ - `DELETE:` `http://localhost:5154/api/Dashboard/User`: only users with access of dashboard management and having delete access can access this endpoint if a valid access token is specified;
  
 With a valid access token in hands, make a request to any one of the endpoints mentioned above with the following header added to your request:
 
