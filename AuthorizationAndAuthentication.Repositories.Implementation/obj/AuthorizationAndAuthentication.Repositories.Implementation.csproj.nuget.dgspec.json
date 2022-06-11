@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Implementation\\AuthorizationAndAuthentication.Repositories.Implementation.csproj": {}
+  },
+  "projects": {
+    "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\AuthorizationAndAuthentication.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\AuthorizationAndAuthentication.Common.csproj",
+        "projectName": "AuthorizationAndAuthentication.Common",
+        "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\AuthorizationAndAuthentication.Common.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Abstraction\\AuthorizationAndAuthentication.Repositories.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Abstraction\\AuthorizationAndAuthentication.Repositories.Abstraction.csproj",
+        "projectName": "AuthorizationAndAuthentication.Repositories.Abstraction",
+        "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Abstraction\\AuthorizationAndAuthentication.Repositories.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\AuthorizationAndAuthentication.Common.csproj": {
+                "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\AuthorizationAndAuthentication.Common.csproj"
+              },
+              "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Context\\AuthorizationAndAuthentication.Repositories.Context.csproj": {
+                "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Context\\AuthorizationAndAuthentication.Repositories.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Context\\AuthorizationAndAuthentication.Repositories.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Context\\AuthorizationAndAuthentication.Repositories.Context.csproj",
+        "projectName": "AuthorizationAndAuthentication.Repositories.Context",
+        "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Context\\AuthorizationAndAuthentication.Repositories.Context.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Implementation\\AuthorizationAndAuthentication.Repositories.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Implementation\\AuthorizationAndAuthentication.Repositories.Implementation.csproj",
+        "projectName": "AuthorizationAndAuthentication.Repositories.Implementation",
+        "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Implementation\\AuthorizationAndAuthentication.Repositories.Implementation.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\AuthorizationAndAuthentication.Common.csproj": {
+                "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Common\\AuthorizationAndAuthentication.Common.csproj"
+              },
+              "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Abstraction\\AuthorizationAndAuthentication.Repositories.Abstraction.csproj": {
+                "projectPath": "G:\\GITHUB\\AuthorizationAndAuthentication\\AuthorizationAndAuthentication.Repositories.Abstraction\\AuthorizationAndAuthentication.Repositories.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.AssemblyInfo.cs
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\bin\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.deps.json
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\bin\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\bin\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.pdb
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\bin\Debug\net6.0\AuthorizationAndAuthentication.Common.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\bin\Debug\net6.0\AuthorizationAndAuthentication.Common.pdb
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.csproj.CopyComplete
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\refint\AuthorizationAndAuthentication.Services.Abstraction.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\AuthorizationAndAuthentication.Services.Abstraction.pdb
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Abstraction\obj\Debug\net6.0\ref\AuthorizationAndAuthentication.Services.Abstraction.dll

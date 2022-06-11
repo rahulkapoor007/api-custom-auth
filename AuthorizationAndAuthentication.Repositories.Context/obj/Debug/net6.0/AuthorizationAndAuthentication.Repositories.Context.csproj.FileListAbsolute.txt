@@ -1,0 +1,12 @@
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\bin\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.deps.json
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\bin\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\bin\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.pdb
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.csproj.AssemblyReference.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.AssemblyInfoInputs.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.AssemblyInfo.cs
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.csproj.CoreCompileInputs.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\refint\AuthorizationAndAuthentication.Repositories.Context.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\AuthorizationAndAuthentication.Repositories.Context.pdb
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Repositories.Context\obj\Debug\net6.0\ref\AuthorizationAndAuthentication.Repositories.Context.dll

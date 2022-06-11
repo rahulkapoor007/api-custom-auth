@@ -1,0 +1,12 @@
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\AuthorizationAndAuthentication.Common.csproj.AssemblyReference.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\AuthorizationAndAuthentication.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\AuthorizationAndAuthentication.Common.AssemblyInfoInputs.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\AuthorizationAndAuthentication.Common.AssemblyInfo.cs
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\AuthorizationAndAuthentication.Common.csproj.CoreCompileInputs.cache
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\bin\Debug\net6.0\AuthorizationAndAuthentication.Common.deps.json
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\bin\Debug\net6.0\AuthorizationAndAuthentication.Common.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\bin\Debug\net6.0\AuthorizationAndAuthentication.Common.pdb
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\AuthorizationAndAuthentication.Common.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\refint\AuthorizationAndAuthentication.Common.dll
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\AuthorizationAndAuthentication.Common.pdb
+C:\Users\Appinventiv\source\repos\AuthorizationAndAuthentication\AuthorizationAndAuthentication.Common\obj\Debug\net6.0\ref\AuthorizationAndAuthentication.Common.dll
